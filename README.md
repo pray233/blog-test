@@ -11,9 +11,10 @@
     foo()
 ```
 ```c
- void foo(void){
-     printf("this is C Language");
- }
+    void fun(void){
+        printf("this is C Language");
+    }
+    fun()
 ```
 我的爱好是：
 1. 唱
