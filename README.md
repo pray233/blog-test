@@ -14,7 +14,7 @@
     void fun(void){
         printf("this is C Language");
     }
-    fun()
+    fun();
 ```
 我的爱好是：
 1. 唱
